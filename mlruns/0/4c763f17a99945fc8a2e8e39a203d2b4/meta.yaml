@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/yasar/Documents/Yasar/MLops_First_project/mlops_CI_CT_CD/mlops_END_END_CI_CT_CD/mlruns/0/4c763f17a99945fc8a2e8e39a203d2b4/artifacts
+end_time: 1731004530178
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4c763f17a99945fc8a2e8e39a203d2b4
+run_name: kindly-rook-746
+run_uuid: 4c763f17a99945fc8a2e8e39a203d2b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731004527205
+status: 4
+tags: []
+user_id: yasar
